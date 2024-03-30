@@ -12,4 +12,4 @@
 |-----|----|----|-----|
 |Install developement enivroment|4|||
 |Setup repository|1      | <1 |none|
-|Setup project board| 1|||
+|Setup project board| 1|1|Bug on mobil interface on iOS, adding task to project is not possible|
