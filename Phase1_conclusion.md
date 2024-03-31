@@ -10,6 +10,6 @@
 
 |Task name|Estimated time in hours| Total time needed| Experienced problems|
 |-----|----|----|-----|
-|Install developement enivroment|4|||
+|Install developement enivroment|4|2|Trouble with the folder not showing up on the local server. Solution was to move the folder.|
 |Setup repository|1      | <1 |none|
 |Setup project board| 1|1|Bug on mobil interface on iOS, adding task to project is not possible|
