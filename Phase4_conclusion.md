@@ -10,8 +10,10 @@
 
 |Task name|Estimated time in hours|Total time needed|Expected problem|Experienced problems|
 |-----|----|----|-----|-----|
-|create tests|8||It is too difficult to simulate the behavoir without using a browser.||
+|create tests|8|0|It is too difficult to simulate the behavoir without using a browser.|Due to the extensive refactoring, I decided to move the Testing into phase 5|
 |refactor the code|4|16| Code will not work anymore, because the code was moved around.||
-|adding final functionality|4||none||
+|adding final functionality|4||none|none, this was not trouble at all|
 
 ### Project Status:
+The code has been refactored to work with classes and it is possible to solve and check the solution of the Sudoku.
+It is not yet optimised for mobile devices and the window size needs to be excact right.
