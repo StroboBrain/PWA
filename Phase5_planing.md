@@ -1,6 +1,7 @@
 ### Planing Phase 5 Improve Frontend and Testing
 
-|Task name|Estimated time in hours| Task description|Expected problem|
+|Task name|Estimated time in hours| Task description|Best practise|
 |----|----|----|----|
-|create tests|8|I created the basic structur without automated test, but I want to include them to avoid the problem, that futur changes will interfere with old code without me noticing.||
-|optimise the frontend|4|Improve the frontend, so that the complete Sudoku is always displayed on any device||
+|Create a scribble for the interface|2|Create a scribble for game UI|- Details come later <br> - No overinvesting <br>- Work in cycles|
+|Update the UI for Edge|8|Code the new UI according to the scribble|TBD|
+|Update the UI for Safari mobile|4|Test and adjust the code for Safari iOS|TBD|
